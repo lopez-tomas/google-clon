@@ -7,3 +7,13 @@ a{
     color: black;
     border: 1px solid red;
 }
+
+.header {
+    display: flex;
+}
+.header ol li,
+.account-pic,
+.menu-image{
+    display: flex;
+    justify-content: right;
+}
